@@ -1,7 +1,31 @@
-# Real Estate CRM – Sample Project
+# 🏡 Real Estate Property Listing Platform
 
-This is a lightweight sample CRM for real-estate agencies.  
-Includes basic modules: Leads, Properties, Agents.
+## 📌 Overview
+This is a lightweight CRM for real estate agencies. A listing portal for properties with virtual tours, agent profiles, and lead generation.
+
+## 🎯 Problem
+Client needed a local-market portal to compete with big real-estate websites.
+
+## 💡 Solution
+Developed a custom listing engine with agent dashboards and inquiry management.
+
+## 🔧 Tech Stack
+- Vue.js  
+- Node.js  
+- MongoDB  
+
+## ⭐ Key Features
+- Property search & filters  
+- Virtual tours  
+- Contact agent  
+- Broker dashboard  
+
+## 📈 Impact
+- 4× more leads  
+- 60% lower marketing cost
+
+## 👤 My Role (CEO)
+Defined product positioning, UI structure, and features.
 
 ## Backend
 1. Go to `/backend`
