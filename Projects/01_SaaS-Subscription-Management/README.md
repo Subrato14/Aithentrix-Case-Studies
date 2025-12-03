@@ -41,3 +41,16 @@ Frontend: React | Backend: Node.js + Express | DB: PostgreSQL | Payments: Stripe
 - Managed milestones and client communications
 - Coordinated dev/design/QA teams
 - Oversaw delivery and UAT
+
+## Backend
+1. Navigate to `backend/`
+2. Install dependencies: `npm install`
+3. Run server: `npm start` (default port 5000)
+4. API endpoint: `GET /api/subscriptions`
+
+## Frontend
+1. Navigate to `frontend/`
+2. Install dependencies: `npm install`
+3. Run React app: `npm start`
+4. Make sure backend is running on port 5000
+
