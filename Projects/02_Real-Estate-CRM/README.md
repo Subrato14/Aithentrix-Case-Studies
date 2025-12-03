@@ -1,30 +1,36 @@
-# 🏡 Real Estate Property Listing Platform
+#  Real Estate Property Listing Platform
 
-## 📌 Overview
+##  Overview
 This is a lightweight CRM for real estate agencies. A listing portal for properties with virtual tours, agent profiles, and lead generation.
 
-## 🎯 Problem
-Client needed a local-market portal to compete with big real-estate websites.
+##  Problem
+The client needed a local-market portal to compete with big real-estate websites.
 
-## 💡 Solution
+##  Solution
 Developed a custom listing engine with agent dashboards and inquiry management.
 
-## 🔧 Tech Stack
+##  Duration
+3.5 months
+
+##  Team Size
+4
+
+##  Tech Stack
 - Vue.js  
 - Node.js  
 - MongoDB  
 
-## ⭐ Key Features
+##  Key Features
 - Property search & filters  
 - Virtual tours  
 - Contact agent  
 - Broker dashboard  
 
-## 📈 Impact
+##  Impact
 - 4× more leads  
 - 60% lower marketing cost
 
-## 👤 My Role (CEO)
+##  My Role (CEO)
 Defined product positioning, UI structure, and features.
 
 ## Backend
