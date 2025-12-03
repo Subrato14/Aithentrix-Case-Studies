@@ -5,8 +5,7 @@ A doctor appointment scheduling platform with slot booking, patient records, onl
 3 months
 
 ##  Team Size
-6- 
-Roles: PM, 1 Frontend, 2 Backend, 1 Mobile Dev, 1 QA
+6 (PM, 1 Frontend, 2 Backend, 1 Mobile Dev, 1 QA)
 
 ##  Tech Stack
 React • Node.js • Firebase
