@@ -2,10 +2,24 @@
 A doctor appointment scheduling platform with slot booking, patient records, online consultations, and automated reminders.
 
 ##  Duration
-3 months
+| Phase                                  | Duration  |
+| -------------------------------------- | --------- |
+| Discovery & BRD                        | 1.5 weeks |
+| UI/UX                                  | 2 weeks   |
+| Frontend + Backend Development         | 8 weeks   |
+| Integrations (Notifications, Calendar) | 1 week    |
+| QA & UAT                               | 1.5 weeks |
+
 
 ##  Team Size
-6 (PM, 1 Frontend, 2 Backend, 1 Mobile Dev, 1 QA)
+| Role                | Count | Responsibilities                                  |
+| ------------------- | ----- | ------------------------------------------------- |
+| Project Manager     | 1     | Roadmap, planning, client communication           |
+| Frontend Developers | 2     | Patient portal, doctor dashboard                  |
+| Backend Developer   | 1     | Appointments API, notifications, scheduling logic |
+| UI/UX Designer      | 1     | UX for booking flow, doctor calendar              |
+| QA Tester           | 1     | Functional, API & regression testing              |
+
 
 ##  Tech Stack
 React • Node.js • Firebase
