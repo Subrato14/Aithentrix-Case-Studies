@@ -47,22 +47,30 @@ A doctor appointment scheduling platform with slot booking, patient records, onl
 - Appointment booking  
 - Doctor dashboard  
 - Patient portal  
-- Notification system  
+- Notification system
+  
+---
 
 ##  Features
 - Slot-based scheduling  
 - Digital prescriptions  
 - Call reminders  
 
+---
+
 ##  Deliverables
 - Full front & backend  
 - Database schema  
 - Training videos
 
+---
+
 ## Outcome  
 - Appointment conflicts reduced by **60%**  
 - Patient wait time reduced by **35%**  
 - Staff productivity improved **2×** 
+
+---
 
 ##  My Role (CEO)
 - Led requirement discovery & BRD sign-off  
