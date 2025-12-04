@@ -1,37 +1,92 @@
 #  Real Estate Property Listing Platform
+**Industry:** Real Estate / Property Sales  
+**Duration:** 16 weeks  
+**Role:** Aithentrix (CEO — Project Manager & Delivery Oversight)
 
-##  Overview
-This is a lightweight CRM for real estate agencies. A listing portal for properties with virtual tours, agent profiles, and lead generation.
+---
 
-##  Problem
-The client needed a local-market portal to compete with big real-estate websites.
+## Client Problem  
+The real estate firm handled leads manually via spreadsheets and WhatsApp.  
+This caused:  
+- Missed follow-up opportunities  
+- No sales pipeline visibility  
+- No agent performance tracking  
+- Difficulty managing property listings  
 
-##  Solution
-Developed a custom listing engine with agent dashboards and inquiry management.
+---
 
-##  Duration
-3.5 months
+## Solution  
+We developed a complete CRM tailored for real-estate operations:
 
-##  Team Size
-4
+- Lead capture automation  
+- Agent assignment engine  
+- Property listings management  
+- Sales pipeline & reminders  
+- CRM dashboard with KPIs  
 
-##  Tech Stack
-- Vue.js  
-- Node.js  
-- MongoDB  
+---
 
-##  Key Features
-- Property search & filters  
-- Virtual tours  
-- Contact agent  
-- Broker dashboard  
+## Key Features Delivered  
+- Add/manage leads  
+- Assign leads to agents  
+- Follow-up reminders & notifications  
+- Manage property listings with media  
+- Sales funnel pipeline (Stages 1–6)  
+- Agent performance analytics  
+- Role-based login (Admin, Agent)
 
-##  Impact
-- 4× more leads  
-- 60% lower marketing cost
+---
 
-##  My Role (CEO)
-Defined product positioning, UI structure, and features.
+## Tech Stack  
+**Frontend:** React  
+**Backend:** Node.js + Express  
+**Database:** PostgreSQL  
+**Auth:** JWT  
+**Hosting:** AWS EC2 + RDS  
+
+---
+
+## Team Size  
+| Role | Count | Responsibilities |
+|------|-------|------------------|
+| Project Manager | 1 | Sprint planning, milestone communication |
+| Frontend Developers | 2 | Lead dashboard, property listing UI |
+| Backend Developers | 2 | CRM pipeline logic, notifications, lead assignment |
+| UI/UX Designer | 1 | CRM workflow, dashboard wireframes |
+| QA Tester | 1 | End-to-end CRM flow testing |
+
+**Total Team Size - 7 members** 
+
+---
+
+## Project Timeline  
+| Phase | Duration |
+|-------|----------|
+| Discovery | 1.5 weeks |
+| UI/UX | 2 weeks |
+| Backend-first Development | 6 weeks |
+| Frontend Development | 4 weeks |
+| QA & UAT | 2.5 weeks |
+
+**Total Timeline - 16 weeks**
+
+---
+
+## Outcome  
+- Lead conversion improved by **40%**  
+- Centralised CRM for the entire sales workflow  
+- Improved accountability for agents  
+- Reduced lead leakage and faster closures  
+
+---
+
+## CEO Role (Subrato)  
+- Created CRM workflow & sales pipeline structure  
+- Managed UI/UX + Dev team execution  
+- Held weekly milestone reviews with stakeholders  
+- Oversaw QA, UAT & final deployment  
+
+---
 
 ## Backend
 1. Go to `/backend`
