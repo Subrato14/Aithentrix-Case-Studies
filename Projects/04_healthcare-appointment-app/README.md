@@ -1,15 +1,25 @@
 # Healthcare Appointment System
+**Industry:** Healthcare / Clinic Management  
+**Duration:** 14 weeks  
+**Role:** Aithentrix (CEO — Project Manager & Delivery Oversight)
+
+---
+##  Overview
 A doctor appointment scheduling platform with slot booking, patient records, online consultations, and automated reminders.
 
-##  Duration
+---
+##  Project Timeline
 | Phase                                  | Duration  |
 | -------------------------------------- | --------- |
 | Discovery & BRD                        | 1.5 weeks |
 | UI/UX                                  | 2 weeks   |
-| Frontend + Backend Development         | 8 weeks   |
+| Frontend + Backend Development         | 9 weeks   |
 | Integrations (Notifications, Calendar) | 1 week    |
 | QA & UAT                               | 1.5 weeks |
 
+## Total -13 weeks 
+
+---
 
 ##  Team Size
 | Role                | Count | Responsibilities                                  |
@@ -20,9 +30,18 @@ A doctor appointment scheduling platform with slot booking, patient records, onl
 | UI/UX Designer      | 1     | UX for booking flow, doctor calendar              |
 | QA Tester           | 1     | Functional, API & regression testing              |
 
+## Total- 6
+
+---
 
 ##  Tech Stack
-React • Node.js • Firebase
+**Frontend:** React  
+**Backend:** Node.js + Express  
+**Database:** MongoDB  
+**Notifications:** Twilio / SMTP  
+**Hosting:** AWS (EC2 + MongoDB Atlas)
+
+----
 
 ##  Scope
 - Appointment booking  
@@ -38,9 +57,17 @@ React • Node.js • Firebase
 ##  Deliverables
 - Full front & backend  
 - Database schema  
-- Training videos  
+- Training videos
+
+## Outcome  
+- Appointment conflicts reduced by **60%**  
+- Patient wait time reduced by **35%**  
+- Staff productivity improved **2×** 
 
 ##  My Role (CEO)
-Defined workflows & managed delivery.
+- Led requirement discovery & BRD sign-off  
+- Managed developers, QA, and designers  
+- Coordinated milestone completion  
+- Oversaw delivery and UAT approval 
 
 
