@@ -17,7 +17,8 @@ A doctor appointment scheduling platform with slot booking, patient records, onl
 | Integrations (Notifications, Calendar) | 1 week    |
 | QA & UAT                               | 1.5 weeks |
 
-## Total -13 weeks 
+
+**Total -13 weeks**
 
 ---
 
@@ -30,7 +31,7 @@ A doctor appointment scheduling platform with slot booking, patient records, onl
 | UI/UX Designer      | 1     | UX for booking flow, doctor calendar              |
 | QA Tester           | 1     | Functional, API & regression testing              |
 
-## Total- 6
+**Total Team Size → 6 Members**
 
 ---
 
