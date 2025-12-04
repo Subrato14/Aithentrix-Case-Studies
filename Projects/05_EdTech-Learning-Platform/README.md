@@ -119,7 +119,7 @@ The project contains:
 
 ---
 
-## 📸 Screens Included
+##  Screens Included
 - Login/Signup  
 - Student Dashboard  
 - Course Page  
