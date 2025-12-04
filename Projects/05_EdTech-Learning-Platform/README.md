@@ -1,5 +1,9 @@
 #  EdTech Learning Management Platform
 
+**Industry:** EdTech / Online Learning  
+**Duration:** 20 weeks  
+**Role:** Aithentrix (CEO — Project Manager & Delivery Oversight)
+---
 A modern LMS (Learning Management System) designed for educational institutes, coaching centers, universities, and independent educators. Includes online courses, video streaming, quizzes, assignments, certificates, and live classes.
 
 ---
@@ -104,12 +108,12 @@ The project contains:
 
 | Phase | Duration |
 |-------|----------|
-| UI/UX | 2 weeks |
-| Development | 7–9 weeks |
-| QA Testing | 1 weeks |
+| UI/UX | 3 weeks |
+| Development | 14 weeks |
+| QA Testing | 2 weeks |
 | Deployment | 1 week |
 
-**Total → 10–13 Weeks**
+**Total → 20 Weeks**
 
 ---
 
@@ -134,8 +138,16 @@ The project contains:
 - Smooth live class integration  
 
 ---
+## Outcome  
+- 2× increase in student engagement  
+- 50% faster course publishing  
+- Better learning analytics  
 
-##  Outcome
-A scalable EdTech platform capable of supporting large user bases with secure video delivery, seamless learning flow, and complete analytics for institutes and educators.
+---
 
+## CEO Role (Subrato)  
+- Structured course workflows and UX  
+- Managed sprint schedules  
+- Coordinated development modules  
+- Oversaw live deployment  
 
