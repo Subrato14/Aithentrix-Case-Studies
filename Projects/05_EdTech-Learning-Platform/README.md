@@ -1,8 +1,10 @@
 #  EdTech Learning Management Platform
-Industry: EdTech / Online Learning  
-Duration: 20 weeks  
-Role: Aithentrix (CEO — Project Manager & Delivery Oversight)
+**Industry:** EdTech / Online Learning  
+**Duration:** 20 weeks  
+**Role:** Aithentrix (CEO — Project Manager & Delivery Oversight)
+
 ---
+
 ##  Overview
 A modern LMS (Learning Management System) designed for educational institutes, coaching centers, universities, and independent educators. Includes online courses, video streaming, quizzes, assignments, certificates, and live classes.
 
