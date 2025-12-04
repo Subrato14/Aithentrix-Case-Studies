@@ -1,6 +1,6 @@
 # Healthcare Appointment System
 **Industry:** Healthcare / Clinic Management  
-**Duration:** 14 weeks  
+**Duration:** 20 weeks  
 **Role:** Aithentrix (CEO — Project Manager & Delivery Oversight)
 
 ---
@@ -11,14 +11,14 @@ A doctor appointment scheduling platform with slot booking, patient records, onl
 ##  Project Timeline
 | Phase                                  | Duration  |
 | -------------------------------------- | --------- |
-| Discovery & BRD                        | 1.5 weeks |
-| UI/UX                                  | 2 weeks   |
-| Frontend + Backend Development         | 9 weeks   |
-| Integrations (Notifications, Calendar) | 1 week    |
-| QA & UAT                               | 1.5 weeks |
+| Discovery & BRD                        | 1 weeks |
+| UI/UX                                  | 3 weeks   |
+| Frontend + Backend Development         | 12 weeks   |
+| Integrations (Notifications, Calendar) | 2 weeks    |
+| QA & UAT                               | 2 weeks |
 
 
-**Total -13 weeks**
+**Total -20 weeks**
 
 ---
 
@@ -73,7 +73,7 @@ A doctor appointment scheduling platform with slot booking, patient records, onl
 
 ---
 
-##  My Role (CEO)
+## CEO Role (Subrato)
 - Led requirement discovery & BRD sign-off  
 - Managed developers, QA, and designers  
 - Coordinated milestone completion  
